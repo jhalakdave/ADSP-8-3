@@ -1,0 +1,17 @@
+Angle Range,Angle Change,Distance Change,Quadrant,Position,Movement Relative to Subject
+0 to 90,Increasing,Increasing,Front-Right,In front,Moving away
+0 to 90,Increasing,Decreasing,Front-Right,In front,Moving closer
+0 to 90,Decreasing,Increasing,Front-Right,In front,Moving away
+0 to 90,Decreasing,Decreasing,Front-Right,In front,Moving closer
+90 to 180,Increasing,Increasing,Back-Right,Behind,Moving away
+90 to 180,Increasing,Decreasing,Back-Right,Behind,Moving closer
+90 to 180,Decreasing,Increasing,Back-Right,Behind,Moving away
+90 to 180,Decreasing,Decreasing,Back-Right,Behind,Moving closer
+180/-180 to 270/-90,Increasing,Increasing,Back-Left,Behind,Moving away
+180/-180 to 270/-90,Increasing,Decreasing,Back-Left,Behind,Moving closer
+180/-180 to 270/-90,Decreasing,Increasing,Back-Left,Behind,Moving away
+180/-180 to 270/-90,Decreasing,Decreasing,Back-Left,Behind,Moving closer
+270/-90 to 360/0,Increasing,Increasing,Front-Left,In front,Moving away
+270/-90 to 360/0,Increasing,Decreasing,Front-Left,In front,Moving closer
+270/-90 to 360/0,Decreasing,Increasing,Front-Left,In front,Moving away
+270/-90 to 360/0,Decreasing,Decreasing,Front-Left,In front,Moving closer
